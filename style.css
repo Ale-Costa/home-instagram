@@ -24,7 +24,7 @@ body{
     width: 80%;
     height: 100vh;
     max-width: 700px;
-    
+    margin: 0 20% 0 10%;    
 }
 
 .instagram-phone{
@@ -153,6 +153,7 @@ body{
 
     .instagram-wrapper{
         width: 90%;
+        margin: auto;
     }
 
     .instagram-phone{
